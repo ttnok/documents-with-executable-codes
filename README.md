@@ -6,6 +6,10 @@ Examples of the documents with executable codes
   * https://docs.microsoft.com/dotnet/csharp/
 * A Tour of Go (Go language)
   * https://go.dev/tour/
+* Rust language
+  * https://doc.rust-lang.org/book/
+  * https://doc.rust-lang.org/stable/rust-by-example/
+  * ... and so on.
 * JavaScript reference (MDN)
   * https://developer.mozilla.org/docs/Web/JavaScript/Reference
 * Eloquent JavaScript
