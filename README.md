@@ -12,6 +12,10 @@ Examples of the documents with executable codes
   * https://eloquentjavascript.net/
 * JavaScript Primer
   * https://jsprimer.net/
+* p5.js reference
+  * https://p5js.org/reference/
+* Brython
+  * https://brython.info/index.html
 
 ## Tools
 * RStudio
