@@ -20,9 +20,12 @@ Examples of the documents with executable codes
   * https://p5js.org/reference/
 * Brython
   * https://brython.info/index.html
+* React (JavaScript library)
+  * https://reactjs.org/
+* Vue.js Docs
+  * https://vuejs.org/  
 
 ## Tools
 * RStudio
 * Jupyter Notebook
 * Google Colaboratory
-* 
